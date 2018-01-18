@@ -16,7 +16,14 @@ ul{
 
 li{
     text-align: left;
-    padding: 8px;
+    padding: 22px;
+}
+
+.font-roboto{
+    font-family: "Roboto", sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    color: #777777;
 }
 
 .orange-text{
