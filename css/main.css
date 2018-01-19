@@ -10,17 +10,29 @@
     height: 300px;
 }
 
+p, input, textarea{
+    font-family: sans-serif;
+}
+
 ul{
     list-style-type: none;
 }
 
-li{
-    text-align: left;
-    padding: 22px;
+.grey-font{
+    color: #717171;
 }
 
-.font-roboto{
-    font-family: "Roboto", sans-serif;
+li{
+    text-align: left;
+    padding: 21px;
+}
+
+.unity-image{
+    height: 240px
+}
+
+h4.font-roboto{
+    font-family: 'Roboto', sans-serif;
     font-size: 28px;
     font-weight: 400;
     color: #777777;
